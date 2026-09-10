@@ -166,7 +166,7 @@ The `dist/` folder contains the production build. You can deploy it to:
 
 ### Update Personal Info
 Edit `src/data/portfolio.ts` to update:
-- Name, title, email, phone
+- Name, title, email
 - Social media links
 - About summary
 - Skills, experience, education

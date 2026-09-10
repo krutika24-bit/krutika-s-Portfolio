@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { SectionHeader } from '@/components/ui/SectionHeader'
 import { personalInfo } from '@/data/portfolio'
-import { FiMail, FiMapPin, FiPhone, FiGithub, FiLinkedin, FiSend } from 'react-icons/fi'
+import { FiMail, FiMapPin, FiGithub, FiLinkedin, FiSend } from 'react-icons/fi'
 import Button from '@/components/ui/Button'
 import { useState } from 'react'
 import emailjs from '@emailjs/browser'
@@ -41,7 +41,6 @@ export const Contact = () => {
 
   const contactInfo = [
     { icon: FiMail, label: "Email", value: personalInfo.email, href: `mailto:${personalInfo.email}` },
-    { icon: FiPhone, label: "Phone", value: personalInfo.phone, href: `tel:${personalInfo.phone}` },
     { icon: FiMapPin, label: "Location", value: personalInfo.location },
     { icon: FiGithub, label: "GitHub", value: "@krutika24-bit", href: personalInfo.github },
     { icon: FiLinkedin, label: "LinkedIn", value: "Krutika Bhoi", href: personalInfo.linkedin },

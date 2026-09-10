@@ -4,7 +4,6 @@ export const personalInfo = {
   titles: ["Data Analyst", "AI Engineer", "Machine Learning Enthusiast"],
   subtitle: "Turning Data Into Intelligent Decisions using AI, Machine Learning, and Business Intelligence.",
   email: "krutikabhoi304@gmail.com",
-  phone: "+91-8087858224",
   location: "India",
   resumeUrl: "/resume.pdf",
   github: "https://github.com/krutika24-bit",
