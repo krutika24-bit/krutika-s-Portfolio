@@ -96,9 +96,18 @@ export const Hero = () => {
                 <span className="relative z-10">Download Resume</span>
                 <div className="absolute inset-0 -translate-x-full group-hover:translate-x-0 transition-transform duration-500 bg-gradient-to-r from-transparent via-white/5 to-transparent" />
               </a>
-              <Button variant="outline" size="lg" icon={<FiExternalLink />}>
-                View Projects
-              </Button>
+              <motion.a
+                href={personalInfo.github}
+                target="_blank"
+                rel="noopener noreferrer"
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                className="inline-flex items-center justify-center gap-2 font-medium rounded-xl transition-all duration-300 overflow-hidden group border border-primary/50 text-primary hover:bg-primary/10 px-8 py-4 text-lg"
+              >
+                <FiExternalLink className="relative z-10" />
+                <span className="relative z-10">View Projects</span>
+                <div className="absolute inset-0 -translate-x-full group-hover:translate-x-0 transition-transform duration-500 bg-gradient-to-r from-transparent via-white/5 to-transparent" />
+              </motion.a>
               <div className="flex gap-3 items-center">
                 <motion.a
                   href={personalInfo.github}
