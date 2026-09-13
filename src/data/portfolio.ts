@@ -9,7 +9,7 @@ export const personalInfo = {
   github: "https://github.com/krutika24-bit",
   linkedin: "https://linkedin.com/in/krutika-bhoi",
   avatar: "/kittu-professional.jpeg",
-  summary: "Passionate Data Analyst and AI Engineer with expertise in Machine Learning, Deep Learning, and Business Intelligence. I transform complex data into actionable insights and build intelligent systems that drive business decisions. With a strong foundation in Python, SQL, and various ML frameworks, I deliver data-driven solutions that create real impact."
+  summary: "Passionate Data Analyst and AI Engineer with expertise in Machine Learning, Deep Learning, and Business Intelligence. I transform complex data into actionable insights and build intelligent solutions to solve real-world problems.",
 }
 
 export const aboutStats = [
@@ -131,7 +131,7 @@ export const projects = [
     image: "/projects/sentiment.jpg",
     technologies: ["Python", "TensorFlow", "NLP", "BERT", "Flask"],
     github: "https://github.com/krutika24-bit",
-    live: "#",
+    live: "https://kitportfolio-five.vercel.app/",
     category: "Machine Learning"
   },
   {
@@ -141,7 +141,7 @@ export const projects = [
     image: "/projects/churn.jpg",
     technologies: ["Python", "Scikit-learn", "Pandas", "Power BI", "SQL"],
     github: "https://github.com/krutika24-bit",
-    live: "#",
+    live: "https://kitportfolio-five.vercel.app/",
     category: "Data Analytics"
   },
   {
@@ -151,7 +151,7 @@ export const projects = [
     image: "/projects/sales.jpg",
     technologies: ["Python", "Power BI", "Tableau", "SQL", "Excel"],
     github: "https://github.com/krutika24-bit",
-    live: "#",
+    live: "https://kitportfolio-five.vercel.app/",
     category: "Business Intelligence"
   }
 ]

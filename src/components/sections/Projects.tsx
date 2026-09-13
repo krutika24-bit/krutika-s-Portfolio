@@ -160,10 +160,10 @@ export const Projects = () => {
                   </div>
 
                   <div className="flex gap-4">
-                    <Button variant="primary" icon={<FiGithub />}>
+                    <Button variant="primary" icon={<FiGithub />} onClick={() => window.open(selectedProject.github, '_blank')}>
                       View on GitHub
                     </Button>
-                    <Button variant="outline" icon={<FiExternalLink />}>
+                    <Button variant="outline" icon={<FiExternalLink />} onClick={() => window.open(selectedProject.live, '_blank')}>
                       Live Demo
                     </Button>
                   </div>
