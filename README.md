@@ -4,7 +4,7 @@ A world-class, premium, production-ready portfolio website built with React 19, 
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-blue?style=for-the-badge&logo=vercel)](YOUR_DEPLOYED_URL_HERE)
+[![Live Demo](https://kitportfolio-five.vercel.app/)
 
 > **Replace `YOUR_DEPLOYED_URL_HERE` with your live website URL after deploying.**
 
