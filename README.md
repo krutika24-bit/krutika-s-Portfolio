@@ -6,7 +6,7 @@ A world-class, premium, production-ready portfolio website built with React 19, 
 
 [![Live Demo](https://kitportfolio-five.vercel.app/)
 
-> **Replace `YOUR_DEPLOYED_URL_HERE` with your live website URL after deploying.**
+> **Replace `https://kitportfolio-five.vercel.app/` with your live website URL after deploying.**
 
 ## 📸 Screenshots
 
