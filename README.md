@@ -1,16 +1,18 @@
 # Krutika Bhoi - Portfolio Website
 
-A world-class, premium, production-ready portfolio website built with React 19, TypeScript, and modern web technologies. Features a dark futuristic design with glassmorphism, smooth animations, and interactive elements.
+A world-class, premium, production-ready portfolio website built with React 19, TypeScript, and modern web technologies. Features a dark futuristic design with glassmorphism, smooth animations, and[...] 
+
+**Live Site:** https://kitportfolio-five.vercel.app/
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://kitportfolio-five.vercel.app/)
+[🔗 Visit the Live Demo](https://kitportfolio-five.vercel.app/)
 
-> **Replace `https://kitportfolio-five.vercel.app/` with your live website URL after deploying.**
+> **Note:** This points to the deployed portfolio site.
 
 ## 📸 Screenshots
 
-![Portfolio Homepage](screenshots/homepage.png)
+[![Portfolio Homepage](screenshots/homepage.png)](https://kitportfolio-five.vercel.app/)
 
 > **How to add your screenshot:**
 > 1. Open your website in a browser
